@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Workspace/Project_team/PRJ301_Group4/Project_PRJ301_Spring24/web/view/assets/home/js/main.js</file>
+            <file>file:/D:/Workspace/Project_team/PRJ301_Group4/Project_PRJ301_Spring24/web/view/common/web/header.jsp</file>
+            <file>file:/D:/Workspace/Project_team/PRJ301_Group4/Project_PRJ301_Spring24/web/view/jsp/ajax/newsletter_ajax.jsp</file>
+            <file>file:/D:/Workspace/Project_team/PRJ301_Group4/Project_PRJ301_Spring24/web/view/jsp/home/home.jsp</file>
+            <file>file:/D:/Workspace/Project_team/PRJ301_Group4/Project_PRJ301_Spring24/web/view/assets/home/js/events.js</file>
+            <file>file:/D:/Workspace/Project_team/PRJ301_Group4/Project_PRJ301_Spring24/web/view/common/web/add_js.jsp</file>
+            <file>file:/D:/Workspace/Project_team/PRJ301_Group4/Project_PRJ301_Spring24/web/view/jsp/home/cart.jsp</file>
+        </group>
+        <group name="PRO192Class">
+            <file>file:/C:/Users/binz5/OneDrive/Desktop/PRJ301_Group4/src/java/yonshop/controller/web/EmailServlet.java</file>
+            <file>file:/C:/Users/binz5/OneDrive/Desktop/PRJ301_Group4/src/java/yonshop/model/UserGoogleDTO.java</file>
+            <file>file:/C:/Users/binz5/OneDrive/Desktop/PRJ301_Group4/src/java/yonshop/dao/OrderDAO.java</file>
+            <file>file:/C:/Users/binz5/OneDrive/Desktop/PRJ301_Group4/src/java/yonshop/controller/web/ForgotPasswordServlet.java</file>
+            <file>file:/C:/Users/binz5/OneDrive/Desktop/PRJ301_Group4/src/java/yonshop/model/Email.java</file>
+            <file>file:/C:/Users/binz5/OneDrive/Desktop/PRJ301_Group4/src/java/yonshop/controller/web/LoginServlet.java</file>
+            <file>file:/C:/Users/binz5/OneDrive/Desktop/PRJ301_Group4/web/view/jsp/home/home.jsp</file>
+            <file>file:/C:/Users/binz5/OneDrive/Desktop/PRJ301_Group4/src/java/yonshop/model/WalletDTO.java</file>
+            <file>file:/C:/Users/binz5/OneDrive/Desktop/PRJ301_Group4/src/java/yonshop/controller/web/CheckoutServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
